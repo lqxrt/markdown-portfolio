@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+1. Puzzles
+2. Programming
+3. Math
